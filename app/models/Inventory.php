@@ -2,7 +2,7 @@
 
 class Inventory
 {
-    private Database $db;
+    private $db;
 
     public function __construct()
     {
